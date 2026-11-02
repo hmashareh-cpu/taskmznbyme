@@ -1,0 +1,6 @@
+val member1 = TeamMember(
+    name = "Heba",
+    university = "Jordan University of Science and Technology",
+    age = 23,
+    role = "Developer"
+)
